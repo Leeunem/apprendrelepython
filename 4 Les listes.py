@@ -1,4 +1,4 @@
-import sta
+
 
 def main():
     online_players = ["Graven","Anana", "Cleymax", "Bob"]

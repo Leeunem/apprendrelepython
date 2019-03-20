@@ -1,0 +1,10 @@
+def main():
+    note1 = int(input("Entrer la premiere note"))
+    note2 = int(input("Entrer la 2ieme"))
+    note3 = int(input ("Entrez la troisieme"))
+    result = (note1 + note2 + note3) / 3
+    print(result)
+
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,14 @@
+def main ():
+    # Creation dune variable
+    username = "Seb"
+    age = 31
+    print(username, age)
+    age = 25
+    print(age)
+    # print("Hello world")
+    # print("Et bien, salut à tous !")
+    print("Salut"+ username+", vous avez" +str(age))
+
+
+if __name__ == '__main__':
+    main()
